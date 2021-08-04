@@ -39,7 +39,13 @@ let cards = [
     author: "Devarshi Doshi",
     githubLink: "https://github.com/devarshidoshi",
   },
-
+  {
+    artName: "Background Changer",
+    pageLink: "./Art/Behz/index.html",
+    imageLink: "./Art/Behz/Capture.png",
+    author: "Atharva Bowlekar",
+    githubLink: "https://github.com/Atharva12Bowlekar",
+  },
   {
     artName: "Vitrola",
     pageLink: "./Art/Pliavi/vitrola.html",

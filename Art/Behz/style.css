@@ -1,0 +1,21 @@
+/*h1{
+	text-decoration: line-through;
+}
+*/
+
+@keyframes extra{
+	from {
+		background-color: blue;
+	}
+	to{
+		background-color: green;
+	}
+}
+
+div{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	animation-name: extra;
+	animation-duration: 5s;
+}
